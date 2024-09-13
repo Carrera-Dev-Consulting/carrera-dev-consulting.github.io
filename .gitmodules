@@ -1,0 +1,3 @@
+[submodule "docs/themes/vncnt-hugo"]
+	path = docs/themes/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo

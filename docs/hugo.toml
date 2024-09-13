@@ -1,0 +1,4 @@
+baseURL = 'https://consulting.gxldcptrick.dev/'
+languageCode = 'en-us'
+title = 'Carrera Dev Consulting'
+theme = 'vncnt-hugo'
